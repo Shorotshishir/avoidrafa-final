@@ -1,0 +1,21 @@
+{
+  "short_name": "AvoidRafa",
+  "name": "Avoid Rafa",
+  "icons": [
+    {
+      "src": "assets/fav/faicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "assets/fav/faicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ],
+  "start_url": "/?utm_source=a2hs",
+  "background_color": "#EC1F24",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ffffff"
+}
